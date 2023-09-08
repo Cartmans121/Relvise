@@ -259,7 +259,7 @@ html,body{
     margin-bottom: 45px;
 }
 .advice__item{
-    height: 445px;
+    height: auto;
 }
 .advice__items {
     display: flex;
